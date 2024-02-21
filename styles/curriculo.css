@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto&display=swap');
+
+:root {
+    --cor-primaria: #000;
+    --cor-secundaria: #fff;
+    --cor-terciaria: #ffc000;
+    --cor-background-hover: #272727;
+    --cor-boder-hover: #800080;
+
+    --font-principal: 'Roboto', sans-serif;
+    --font-secundaria:'Montserrat', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    box-sizing: border-box; 
+    background-color: var(--cor-primaria);
+    color: var(--cor-secundaria);
+}
+
+.cabecalho {
+    padding: 3% 0  0 10%;
+}
+
+.cabecalho__menu {
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho__menu-link {
+    font-family: var(--font-secundaria);
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--cor-terciaria);
+    text-decoration: none;
+}
+
+.curriculo {
+    align-items: center;
+    padding: 5%;
+}
+
+.curriculo__conteudo {
+    display: flex;
+    flex-direction: column;
+}
+
+.curriculo__conteudo-content-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    background-color: var(--cor-background-hover);
+    font-family: var(--font-principal);
+    font-size: 1.8rem;
+}
+
+.curriculo__dados {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: var(--cor-secundaria);
+}
+
+.curriculo__dados-subtitulo {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    font-family: var(--font-principal);
+    font-size: 1.5rem;
+    background-color: var(--cor-background-hover);
+}
+
+.curriculo__dados-pessoais {
+    margin-top: 10px;
+    font-size: 1.25rem;
+    font-family: var(--font-secundaria);
+}
+
+.curriculo__dados-lista {
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.curriculo__dados-paragrafo {
+    font-size: 1.25rem;   
+}
+
+.rodape {
+    background-color: var(--cor-terciaria);
+    color: var(--cor-primaria);
+    font-family: var(--font-principal);
+    font-weight: 600;
+    font-size: 1.5rem;
+    padding: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
