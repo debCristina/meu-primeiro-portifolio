@@ -1,6 +1,6 @@
 # Meu Primeiro Portfolio
 
-Bem-vindo ao meu primeiro portfolio! Este projeto foi desenvolvido para colocar em prática minhas habilidades em HTML e CSS. Estou muito satisfeitaa por completá-lo, pois marca uma evolução significativa dos meus conhecimentos na área e representa um passo importante em busca de aprimoramento das minhas habilidades.
+Bem-vindo ao meu primeiro portfolio! Este projeto foi desenvolvido para colocar em prática minhas habilidades em HTML e CSS. Estou muito satisfeita por completá-lo, pois marca uma evolução significativa dos meus conhecimentos na área e representa um passo importante em busca de aprimoramento das minhas habilidades.
 
 ![portfolio-oficial](https://github.com/debCristina/meu-primeiro-portifolio/assets/133518001/ef6a21b0-d95c-4bfc-948f-2521596251ac)
 
