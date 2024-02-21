@@ -16,7 +16,7 @@ Neste projeto, concentrei-me em aplicar os conceitos que aprendi em HTML e CSS p
 
 ## Instruções de Uso
 
-Para visualizar o projeto, basta abrir o arquivo index.html em qualquer navegador da web.
+Para visualizar o projeto, basta acessar o link: https://meu-primeiro-portifolio-eta.vercel.app/
 
 ## Próximos Passos
 
