@@ -22,9 +22,6 @@ Para visualizar o projeto, basta acessar o link: https://meu-primeiro-portifolio
 
 Estou animada para continuar aprendendo e melhorando minhas habilidades. Pretendo expandir este portfolio adicionando mais projetos e explorando novas tecnologias no futuro.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com sugestões de melhorias.
 
 ## Feito por:
 
